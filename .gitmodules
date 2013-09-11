@@ -1,0 +1,6 @@
+[submodule "jerbly-pi"]
+	path = jerbly-pi
+	url = https://github.com/jerbly/Pi.git
+[submodule "adafruit"]
+	path = adafruit
+	url = https://github.com/adafruit/Adafruit-Raspberry-Pi-Python-Code.git
