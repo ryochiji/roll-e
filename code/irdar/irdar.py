@@ -12,8 +12,7 @@ For more info: http://ryosprojects.wordpress.com/2013/09/13/irdar-infrared-detec
 """
 
 import sys
-sys.path.append('../adafruit/Adafruit_PWM_Servo_Driver/')
-sys.path.append('../jerbly-pi/')
+sys.path.append('../../adafruit/Adafruit_PWM_Servo_Driver/')
 from Adafruit_PWM_Servo_Driver import PWM
 import distance
 import time

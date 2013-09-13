@@ -8,6 +8,8 @@ Also see:
 http://jeremyblythe.blogspot.co.uk/2012/09/raspberry-pi-distance-measuring-sensor.html
 http://jeremyblythe.blogspot.co.uk/2012/09/raspberry-pi-hardware-spi-analog-inputs.html
 """ 
+import sys
+sys.path.append('../../jerbly-pi/')
 import spidev
 import time
 import os
